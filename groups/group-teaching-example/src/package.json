@@ -1,0 +1,12 @@
+{
+  "name": "madmp-assessment-service",
+  "version": "1.0.0",
+  "description": "maDMP Assessment API — reference implementation (group-teaching-example)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

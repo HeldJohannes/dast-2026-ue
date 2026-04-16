@@ -1,0 +1,15 @@
+{
+  "dmp": {
+    "title": "Example Research DMP",
+    "created": "2024-01-15",
+    "dmp_id": { "identifier": "https://doi.org/10.1234/example-dmp", "type": "doi" },
+    "cost": [
+      {
+        "title": "Data storage costs",
+        "description": "Annual storage fee at institutional repository",
+        "value": 500,
+        "currency_code": "EUR"
+      }
+    ]
+  }
+}

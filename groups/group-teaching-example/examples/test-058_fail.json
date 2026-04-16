@@ -1,0 +1,18 @@
+{
+  "dmp": {
+    "title": "Example Research DMP",
+    "created": "2024-01-15",
+    "dmp_id": { "identifier": "https://doi.org/10.1234/example-dmp", "type": "doi" },
+    "dataset": [
+      {
+        "title": "Climate data",
+        "distribution": [
+          {
+            "title": "Open archive copy",
+            "data_access": "open"
+          }
+        ]
+      }
+    ]
+  }
+}
