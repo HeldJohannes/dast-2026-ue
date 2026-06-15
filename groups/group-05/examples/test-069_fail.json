@@ -1,0 +1,18 @@
+{
+  "dmp": {
+    "rdap:dataset": [
+      {
+        "rdap:distribution": [
+          {
+            "license": [
+              {
+                "license_ref": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+                "start_date": "2026-01-01"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

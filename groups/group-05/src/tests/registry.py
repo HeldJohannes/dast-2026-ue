@@ -1,4 +1,4 @@
-from . import test001, test016, test032, test026, test037, test065
+from . import test001, test016, test032, test026, test037, test065, test058, test069, test083
 
 registry = {
     1: test001,
@@ -6,5 +6,8 @@ registry = {
     32: test032,
     26: test026,
     37: test037,
-    65: test065
+    65: test065,
+    58: test058,
+    69: test069,
+    83: test083
 }
