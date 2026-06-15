@@ -1,0 +1,15 @@
+{
+  "dmp": {
+    "rdap:dataset": [
+      {
+        "rdap:distribution": [
+          {
+            "schema:encodingFormat": [
+              "CSV"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "dmp": {
+    "rdap:dataset": [
+      {
+        "rdap:distribution": [
+          {}
+        ]
+      }
+    ]
+  }
+}
