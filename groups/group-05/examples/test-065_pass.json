@@ -1,0 +1,13 @@
+{
+  "dmp": {
+    "dataset": [
+      {
+        "distribution": [
+          {
+            "data_access": "open"
+          }
+        ]
+      }
+    ]
+  }
+}
