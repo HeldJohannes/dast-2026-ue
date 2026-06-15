@@ -1,0 +1,22 @@
+{
+  "dmp": {
+    "@context": {
+      "schema": "http://schema.org/",
+      "rdap": "https://w3id.org/rdap#"
+    },
+    "@type": "rdap:DMP",
+    "@id": "https://example.com/dmp/022-fail",
+    "dataset": [
+      {
+        "@type": "rdap:Dataset",
+        "@id": "https://example.com/dataset/1",
+        "distribution": [
+          {
+            "@type": "rdap:Distribution",
+            "@id": "https://example.com/distribution/1"
+          }
+        ]
+      }
+    ]
+  }
+}
